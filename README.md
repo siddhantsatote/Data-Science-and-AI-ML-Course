@@ -15,11 +15,8 @@ Stay informed about the latest changes in the repository. This section highlight
 
 | **Date**       | **Section/Topic**                                                | **Details**                                                                                                   | **Commit Link**        |
 |-----------------|------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-------------------------|
-| **2024-11-24** | [Fundamentals of Data Science](./Data-Science-and-ML-Course/Fundamentals_of_Data_Science) | Added comprehensive explanations on **Gradient Descent**, **Optimization Theory**, and **Central Limit Theorem**. | [View Commit](#)       |
-| **2024-11-23** | [Machine Learning](./Data-Science-and-ML-Course/Machine_Learning) | Introduced **Hyperparameter Tuning** techniques and updated examples for **Random Forest Classification**.     | [View Commit](#)       |
-| **2024-11-22** | [Python for Data Science](./Data-Science-and-ML-Course/Python_for_Data_Science) | New materials on **SciPy Matrix Decomposition** and practical examples for **Pandas Data Manipulation**.       | [View Commit](#)       |
-| **2024-11-20** | [Project Work](./Data-Science-and-ML-Course/Project_Work)        | Updated **Netflix Data Analysis** case study with exploratory visualizations and feature engineering steps.     | [View Commit](#)       |
-| **2024-11-19** | [Data Visualization with Tableau](./Data-Science-and-ML-Course/Data_Visualization) | Added tutorials for **Waterfall Charts** and **Custom Dashboard Creation**.                                   | [View Commit](#)       |
+| **2024-11-22** | [Python for Data Science](./Data-Science-and-ML-Course\Python_for_Data_Science\Basics\Data_Types) | Added **Basic Data Types** and **Variable Definitions** in Python, along with examples.                        | [View Commit](SQL_and_RDBMS/Basics)       |
+| **2024-11-21** | [SQL and RDBMS](./Data-Science-and-ML-Course\SQL_and_RDBMS\Basics)      | Covered the **Basics of SQL** including **SELECT**, **WHERE**, and **ORDER BY** commands.                     | [View Commit](Python_for_Data_Science/Basics/Data_Types)       |
 
 > **Note:** Use the "Recent Updates" table to quickly locate new materials. Click on the topic links for direct access.
 
