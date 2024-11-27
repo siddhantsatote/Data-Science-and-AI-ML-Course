@@ -1,3 +1,5 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/siddhantsatote/Data-Science-and-AI-ML-Course)
+
 # Comprehensive Data Science & Machine Learning Course Repository 
 
 Welcome to the **Free ₹60,000 Data Science & Machine Learning Course Repository**! 🎓  
@@ -65,3 +67,9 @@ The repository is structured to cover a wide range of topics, including foundati
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/data-science-course.git
+
+---
+
+![Recent Commits](https://github-readme-stats.vercel.app/api?username=siddhantsatote&repo=Data-Science-and-AI-ML-Course&show_icons=true)
+
+---
