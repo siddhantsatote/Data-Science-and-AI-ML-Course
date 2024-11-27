@@ -71,5 +71,3 @@ The repository is structured to cover a wide range of topics, including foundati
 ---
 
 ![Recent Commits](https://github-readme-stats.vercel.app/api?username=siddhantsatote&repo=Data-Science-and-AI-ML-Course&show_icons=true)
-
----
