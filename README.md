@@ -18,7 +18,7 @@ Stay informed about the latest changes in the repository. This section highlight
 | **Date**       | **Section/Topic**                                                | **Details**                                                                                                   | **Commit Link**        |
 |-----------------|------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-------------------------|
 | **2024-11-24** | [Python for Data Science](./Python_for_Data_Science/Basics/Data_Types) | Added **Basic Data Types** and **Variable Definitions** in Python, along with examples.                        | [View Commit](Python_for_Data_Science/Basics/Data_Types)       |
-| **2024-12-03** | [SQL and RDBMS](./SQL_and_RDBMS)      | Covered the **all of the SQL** including all topics**.                     | [View Commit](SQL_and_RDBMS)       |
+| **2024-12-03** | [SQL and RDBMS](./SQL_and_RDBMS)      | Covered the **all of the SQL** including all **topics**.                     | [View Commit](SQL_and_RDBMS)       |
 
 > **Note:** Use the "Recent Updates" table to quickly locate new materials. Click on the topic links for direct access.
 
